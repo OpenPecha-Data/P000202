@@ -1,0 +1,37 @@
+ebook_metadata:
+  title: ༄༅། །ཕྱག་རྒྱ་ཆེན་པོ་ལྔ་ལྡན་གྱི་ཁྲིད་དམིགས་ཡིད་ཀྱི་སྙེ་མ་ཞེས་བྱ་བ་བཞུགས་སོ།
+    །
+  authors:
+  - མཛད་པ་པོ། ངག་དབང་ནོར་བུ།
+  sku: LEK-MA-DK-05
+  layers:
+  - book_title
+  - author
+  - chapter_title
+  - quotation
+web_metadata:
+  title:
+    en: The Crops of Mind:An Explanation of the Fivefold Path of Mahamudra
+    bo: ཕྱག་རྒྱ་ཆེན་པོ་ལྔ་ལྡན་གྱི་ཁྲིད་དམིགས་ཡིད་ཀྱི་སྙེ་མ་ཞེས་བྱ་བ་བཞུགས་སོ།།
+  collection:
+    en: Lekshey Ling Mahamudra Series–  Book 5
+    bo: ལེགས་བཤད་གླིང་ཕྱག་རྒྱ་ཆེན་པོ།–  དེབ། ༥
+  author:
+    en: Ngawang Norbu
+    bo: ངག་དབང་ནོར་བུ།
+  pusblisher:
+    en: Lekshey Ling Publications
+    bo: ཀརྨ་ལེགས་བཤད་གླིང།
+  sku: LEK-MA-DK-05
+  category:
+    en: Mahamudra
+    bo: ཕྱག་རྒྱ་ཆེན་པོ།
+  org:
+    bo: Timeless Treasuries
+    en: མཐའ་ཡས་དཔེ་མཛོད།
+  website: http://dharmacloud.tsadra.org
+  aquisition_data: '2019-07-18'
+  filename: LEK-MA-DK-05.epub
+  description:
+    en: ''
+    bo: ''
