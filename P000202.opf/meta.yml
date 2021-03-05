@@ -1,14 +1,16 @@
-ebook_metadata:
+id: P000202
+initial_creation_type: ebook
+source_metadata:
   title: ༄༅། །ཕྱག་རྒྱ་ཆེན་པོ་ལྔ་ལྡན་གྱི་ཁྲིད་དམིགས་ཡིད་ཀྱི་སྙེ་མ་ཞེས་བྱ་བ་བཞུགས་སོ།
     །
   authors:
   - མཛད་པ་པོ། ངག་དབང་ནོར་བུ།
-  sku: LEK-MA-DK-05
   layers:
   - book_title
   - author
   - chapter_title
   - quotation
+  id: LEK-MA-DK-05
 web_metadata:
   title:
     en: The Crops of Mind:An Explanation of the Fivefold Path of Mahamudra
