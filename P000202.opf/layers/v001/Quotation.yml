@@ -2,51 +2,51 @@ id: 3c7747cbfe134b9b8fc40a57943934f4
 annotation_type: Tsawa
 revision: '00001'
 annotations:
-- id: 0ce9389361d1427b881ca2c4f2cd54f2
-  span:
-    start: 1648
-    end: 1759
-- id: 6ad0c3b7f97e4c72a43e1a7d0d8e28e4
-  span:
-    start: 1781
-    end: 1927
-- id: 3c946090f8a24a8cbc132d0bc5b97292
-  span:
-    start: 2348
-    end: 2395
-- id: 568255f02d45425f81e7dc47361f5a24
-  span:
-    start: 3638
-    end: 3858
-- id: e8d2eaf496df49aea850d250d4d5103b
-  span:
-    start: 7415
-    end: 7626
-- id: 437a114f034e4a4eb77da3f9aea59618
-  span:
-    start: 8057
-    end: 8202
-- id: fbe19efb981e4043a1a4560294dc8ecc
-  span:
-    start: 8370
-    end: 8409
-- id: 843f736b6630450992502e8e768b1ac1
-  span:
-    start: 8555
-    end: 8627
-- id: 38bbad6780264dd987169731c0c258a3
-  span:
-    start: 8872
-    end: 8953
-- id: 1d808a82658f4f92a7b247e9074e57dc
-  span:
-    start: 8973
-    end: 9001
-- id: 7b4ad89a101b456cb46f5af57e33f48b
-  span:
-    start: 9888
-    end: 9943
-- id: 482244133c8c4542b17a2b36d21ffe86
-  span:
-    start: 10897
-    end: 10953
+  0ce9389361d1427b881ca2c4f2cd54f2:
+    span:
+      start: 1648
+      end: 1759
+  6ad0c3b7f97e4c72a43e1a7d0d8e28e4:
+    span:
+      start: 1781
+      end: 1927
+  3c946090f8a24a8cbc132d0bc5b97292:
+    span:
+      start: 2348
+      end: 2395
+  568255f02d45425f81e7dc47361f5a24:
+    span:
+      start: 3638
+      end: 3858
+  e8d2eaf496df49aea850d250d4d5103b:
+    span:
+      start: 7415
+      end: 7626
+  437a114f034e4a4eb77da3f9aea59618:
+    span:
+      start: 8057
+      end: 8202
+  fbe19efb981e4043a1a4560294dc8ecc:
+    span:
+      start: 8370
+      end: 8409
+  843f736b6630450992502e8e768b1ac1:
+    span:
+      start: 8555
+      end: 8627
+  38bbad6780264dd987169731c0c258a3:
+    span:
+      start: 8872
+      end: 8953
+  1d808a82658f4f92a7b247e9074e57dc:
+    span:
+      start: 8973
+      end: 9001
+  7b4ad89a101b456cb46f5af57e33f48b:
+    span:
+      start: 9888
+      end: 9943
+  482244133c8c4542b17a2b36d21ffe86:
+    span:
+      start: 10897
+      end: 10953
